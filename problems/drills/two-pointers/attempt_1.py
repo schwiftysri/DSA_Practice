@@ -531,7 +531,7 @@ def longest_palindrome(s:str) -> str:
 
 
 
-def valid_palindrom(s:str) -> bool:
+def valid_palindrome(s:str) -> bool:
     l,r = 0, len(s)-1
     while l< r:
         if not s[l].isalnum():
