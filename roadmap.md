@@ -13,7 +13,7 @@ Status legend: `[ ]` not started · `[~]` in progress · `[x]` template/problems
 ## Phase 0 — Essential Technique Frameworks
 *(the core "building blocks" this whole repo drills — do these first, in order)*
 
-- [ ] **Two Pointers** (array left/right + linked-list fast/slow)
+- [x] **Two Pointers** (array left/right + linked-list fast/slow)
   `reference/algorithmic-thinking/two-pointers.md`
   Prereq: none (first topic)
 

@@ -71,8 +71,10 @@ current one is clean 3x in a row)
    r < len`, opposite direction of growth from variant 3) — DONE (3 clean in
    a row: reps 4-6)
 
-All variants done. Per CLAUDE.md step 5, next is 2-3 easy transfer problems
-using these templates, or move to the next roadmap topic (Sliding Window) —
-confirm with user at next session start.
+All variants done. Transfer problems complete (2026-09-06): move_zeroes
+(fixed via swap instead of overwrite — nice independent fix), valid_palindrome
+(fixed len(nums)->len(s) NameError and a name typo), longest_palindrome
+(fixed max() missing key=len). **Topic fully closed.** Next session: start
+Sliding Window (`reference/algorithmic-thinking/sliding-window.md`).
 
 ---
