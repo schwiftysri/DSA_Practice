@@ -17,11 +17,11 @@ Status legend: `[ ]` not started · `[~]` in progress · `[x]` template/problems
   `reference/algorithmic-thinking/two-pointers.md`
   Prereq: none (first topic)
 
-- [ ] **Sliding Window**
+- [x] **Sliding Window**
   `reference/algorithmic-thinking/sliding-window.md`
   Prereq: Two Pointers (sliding window = a fast/slow pointer pair with a window between them)
 
-- [ ] **Binary Search**
+- [x] **Binary Search** (template mastered; transfer problems deferred)
   `reference/algorithmic-thinking/binary-search.md`
   Prereq: none, but drilled after two pointers/sliding window per site order
 
