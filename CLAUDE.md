@@ -8,8 +8,13 @@ boundary conditions (n vs n-1, < vs <=, etc.) while solving real problems.
 ## Workflow for a new building block (e.g. "binary search")
 1. Pull labuladong's canonical template for it from reference/, explain WHY 
    each boundary choice is made (not just "here's the code").
-2. Give me the template with blanks/comments, not the full code, and have me 
-   type it from memory 5-10 times in a row in drill.py, resetting each time.
+2. Show me the full canonical template (concrete, runnable code, not a
+   fill-in-the-blank puzzle) as reference material, with the WHY from step 1
+   attached to each boundary/line. Then have me type it from memory — not
+   copy-paste — 5-10 times in a row in drill.py, resetting each time. Drilling
+   is about muscle memory for syntax/boundaries, not re-deriving the logic
+   from scratch each rep — don't make me solve the problem to get the
+   reference material.
 3. After each attempt, diff it against the canonical template and flag exactly 
    which line/condition I got wrong (off-by-one, wrong loop condition, etc.) 
    — don't just say "wrong," name the exact mistake pattern.
